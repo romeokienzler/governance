@@ -10,6 +10,8 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Isaac Corley         | [@isaaccorley](https://github.com/isaaccorley)       | Taylor Geospatial |
 | Ashwin Nair          | [@ashnair1](https://github.com/ashnair1)             | Space42         |
 | Nils Lehmann         | [@nilsleh](https://github.com/nilsleh)               | TUM             |
+| Romeo Kienzler       | [@romeokienzler](https://github.com/romeokienzler)         | IBM Research    |
+| Isabelle Wittmann    | [@isabelle-wittmann](https://github.com/Isabelle-Wittmann)     | IBM Research    |
 
 ## How to Join
 
